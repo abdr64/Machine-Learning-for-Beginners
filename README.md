@@ -17,11 +17,11 @@ Reviewers will give ratings by scaling from 1 - 5 based on the code when the tas
 
 The details of the ratings are: 
 
-**1**. Indicated of plagiarism
- **2**. The code needs to be fixed
- **3**. Only to follow the modules provided in the course
- **4**.  Accuracy of the trained model is above **90%** both in **train** and **validation** accuracy
- **5**. The accuracy is above **90%** and using **three or more** techniques that are not taught in the module.
+ 1. Indicated of plagiarism
+ 2. The code needs to be fixed
+ 3. Only to follow the modules provided in the course
+ 4.  Accuracy of the trained model is above **90%** both in **train** and **validation** accuracy
+ 5. The accuracy is above **90%** and using **three or more** techniques that are not taught in the module.
 
  The code in this repository is a result of my work
 
